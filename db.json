@@ -12,5 +12,19 @@
       "id": "3",
       "email": "3@email.com"
     }
+  ],
+   "todos": [
+    {
+      "id": "1",
+      "todo": "Learn Ballerina"
+    },
+    {
+      "id": "2",
+      "todo": "Learn Docker"
+    },
+    {
+      "id": "3",
+      "todo": "Learn Kubernetes"
+    }
   ]
 }
