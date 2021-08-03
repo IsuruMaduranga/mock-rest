@@ -9,13 +9,13 @@
     {
       "id": "2",
       "email": "2@email.com",
-      "name: : "Smith",
+      "name" : "Smith",
       "todo": "Learn Docker"
     },
     {
       "id": "3",
       "email": "3@email.com",
-      "name: : "Jackson",
+      "name" : "Jackson",
       "todo": "Learn Kubernetes"
     }
   ]
